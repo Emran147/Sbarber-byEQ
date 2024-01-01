@@ -1,0 +1,128 @@
+C:\Users\HP\source\repos\ServerSide\ServerSide\obj\Release\ServerSide.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ServerSide\ServerSide\obj\Release\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\ServerSide.dll.config
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\ServerSide.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\ServerSide.pdb
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\csc.exe
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\csc.exe.config
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\csc.rsp
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\csi.exe
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\csi.rsp
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\System.AppContext.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\vbc.exe
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\vbc.exe.config
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\vbc.rsp
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\Antlr3.Runtime.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Helpers.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Http.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Mvc.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Optimization.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Razor.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.WebPages.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\WebGrease.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Helpers.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Http.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Mvc.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Optimization.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.Razor.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.WebPages.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\Antlr3.Runtime.pdb
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\source\repos\ServerSide\ServerSide\obj\Release\ServerSide.csproj.CopyComplete
+C:\Users\HP\source\repos\ServerSide\ServerSide\obj\Release\ServerSide.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\obj\Release\ServerSide.pdb
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Data.Common.dll
+C:\Users\HP\source\repos\ServerSide\ServerSide\bin\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\ServerSide.dll.config
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\ServerSide.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\ServerSide.pdb
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Data.Common.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Http.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\WebGrease.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Http.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\obj\Release\ServerSide.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\obj\Release\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\obj\Release\ServerSide.csproj.CopyComplete
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\obj\Release\ServerSide.dll
+C:\Users\HP\Desktop\نسخه للبرويكت\ServerSide\ServerSide\obj\Release\ServerSide.pdb
